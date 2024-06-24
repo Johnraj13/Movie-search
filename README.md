@@ -1,4 +1,4 @@
-#Movie Search
+Movie Search
 
 Movie Search is a web application that allows users to search for movies, view detailed information about them, and discover new movies. 
 
